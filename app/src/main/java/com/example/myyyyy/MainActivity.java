@@ -10,6 +10,6 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        Toast.makeText(getApplicationContext(),"This is my first Android Studio with Github",Toast.LENGTH_LONG).show();
+        Toast.makeText(getApplicationContext(),"This is my first Android Studio project  with Github",Toast.LENGTH_LONG).show();
     }
 }
